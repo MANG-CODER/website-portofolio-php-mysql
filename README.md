@@ -66,10 +66,9 @@ Pastikan Anda telah menginstal salah satu paket *server* lokal berikut:
 ---
 
 ## 🖼️ Preview Tampilan
+`![Preview Tampilan Portofolio](assets/preview1.png)`
 
-*(Catatan: Harap ganti bagian ini dengan *screenshot* aktual dari website Anda.)*
-
-`![Preview Tampilan Portofolio](assets/preview.png)`
+`![Preview Tampilan Portofolio](assets/preview2.png)`
 
 ---
 
