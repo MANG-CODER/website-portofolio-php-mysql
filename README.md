@@ -78,7 +78,7 @@ Proyek ini dilisensikan di bawah **Lisensi MIT** (MIT License). Lihat file [LICE
 
 ---
 
-## 🧑 Penulis
+## ⌥ Penulis
 
 Proyek ini dikembangkan dan dikelola oleh:
 
